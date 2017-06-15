@@ -6,13 +6,13 @@ This task was done for a technical interview
 
 First clone the repository
 
-`cd /tmp`
-`git clone https://github.com/Lepthy/glowing-journey.git`
-`cd glowing-journey`
+`cd /tmp`  
+`git clone https://github.com/Lepthy/glowing-journey.git`  
+`cd glowing-journey`  
 
 Bootstrap application
 
-`bash bootsttrap.sh`
+`bash bootsttrap.sh`  
 
 Then point a browser to
 > http://localhost:8000/static/index.html
