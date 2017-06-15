@@ -12,7 +12,7 @@ First clone the repository
 
 Bootstrap application
 
-`bash bootsttrap.sh`  
+`bash bootstrap.sh`  
 
 Then point a browser to
 > http://localhost:8000/static/index.html
