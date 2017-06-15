@@ -29,4 +29,5 @@ The output tag will update with every keystroke, reducing the response payload w
 3. Get list of attributes from the server (for the selector)
 4. Async the tornado server
 5. Add Dockerfile
-6. COMMIT EVERY STEP Q_Q
+6. Use a real database (AWS.RDS, AWS.DDB)
+7. COMMIT EVERY STEP Q_Q
